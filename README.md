@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PSevenTech
+- 👀 I’m interested in Learn Hacking/Cracking
+- 🌱 I’m currently learning onion links
