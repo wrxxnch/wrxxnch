@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @PSevenTech
-- 👀 I’m interested in Learn Hacking/Cracking
-- 🌱 I’m currently learning onion links
+<script>alert('Welcome ladies and gentlemen')</script>
+my name is Jean and now I'm learning to love 
