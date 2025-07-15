@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi,my name is Jean<br>,but my friendos call me Wrench <br>Cuwrenchly learning LUA code<br>I'm here for modify some repos and post some hacking tools<br>Hacking Enthusiast
+![Welcome to DEDSEC](welcumtodedsec.png)
 
 
 ## 🌐 Socials:
