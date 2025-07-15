@@ -9,6 +9,8 @@ Hi,my name is Jean<br>,but my friendos call me Wrench <br>Cuwrenchly learning LU
 # Techs
 <p>
 <code><img src="tech/aftereffects-original.svg" width="40px"></code>
+<code><img src="tech/photoshop-original.svg" width="40px"></code>
+<code><img src="tech/illustrator-plain.svg" width="40px"></code>
 <code><img src="tech/androidstudio-original.svg" width="40px"></code>
 <code><img src="tech/apache-original.svg" width="40px"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40px"></code>
@@ -20,11 +22,9 @@ Hi,my name is Jean<br>,but my friendos call me Wrench <br>Cuwrenchly learning LU
 <code><img src="tech/firebase-original.svg" width="40px"></code>
 <code><img src="tech/go-original.svg" width="40px"></code>
 <code><img src="tech/html5-original.svg" width="40px"></code>
-<code><img src="tech/illustrator-plain.svg" width="40px"></code>
 <code><img src="tech/kali-1.svg" width="40px"></code>
 <code><img src="tech/lua-original.svg" width="40px"></code>
 <code><img src="tech/nodejs-original.svg" width="40px"></code>
-<code><img src="tech/photoshop-original.svg" width="40px"></code>
 <code><img src="tech/react-original.svg" width="40px"></code>
 <code><img src="tech/roblox-studio-1.svg" width="40px"></code>
 <code><img src="tech/ssh-icon.png" width="40px"></code>
