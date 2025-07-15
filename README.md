@@ -14,7 +14,7 @@ Hi,my name is Jean<br>,but my friendos call me Wrench <br>Cuwrenchly learning LU
 <code><img src="tech/androidstudio-original.svg" width="40px"></code>
 <code><img src="tech/apache-original.svg" width="40px"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="40px"></code>
-<code><img src="tech/capcut-symbol-logo-vector.svg" width="40px"></code>
+<code><img src="https://www.google.com/images/branding/product/2x/play_prism_96dp.png" width="40px"></code>
 <code><img src="tech/cplusplus-original.svg" width="40px"></code>
 <code><img src="tech/css3-original.svg" width="40px"></code>
 <code><img src="tech/debian-original.svg" width="40px"></code>
