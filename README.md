@@ -7,46 +7,45 @@ Hi,my name is Jean<br>,but my friendos call me Wrench <br>Cuwrenchly learning LU
 
 ![DEDSEC](https://github.com/wrxxnch/Gorgeous-GRUB/blob/main/Images/Dedsec.gif)
 # Techs
-<p align="center">
-<code><img src="aftereffects-original.svg" width="40px"></code>
-<code><img src="androidstudio-original.svg" width="40px"></code>
-<code><img src="apache-original.svg" width="40px"></code>
-<code><img src="blender-icon.svg" width="40px"></code>
-<code><img src="capcut-symbol-logo-vector.svg" width="40px"></code>
-<code><img src="cplusplus-original.svg" width="40px"></code>
-<code><img src="css3-original.svg" width="40px"></code>
-<code><img src="debian-original.svg" width="40px"></code>
-<code><img src="figma-original.svg" width="40px"></code>
-<code><img src="firebase-original.svg" width="40px"></code>
-<code><img src="go-original.svg" width="40px"></code>
-<code><img src="html5-original.svg" width="40px"></code>
-<code><img src="illustrator-plain.svg" width="40px"></code>
-<code><img src="kali-1.svg" width="40px"></code>
-<code><img src="lua-original.svg" width="40px"></code>
-<code><img src="nodejs-original.svg" width="40px"></code>
-<code><img src="photoshop-original.svg" width="40px"></code>
-<code><img src="react-original.svg" width="40px"></code>
-<code><img src="roblox-studio-1.svg" width="40px"></code>
-<code><img src="ssh-icon.svg" width="40px"></code>
-
+<p>
+<code><img src="tech/aftereffects-original.svg" width="40px"></code>
+<code><img src="tech/androidstudio-original.svg" width="40px"></code>
+<code><img src="tech/apache-original.svg" width="40px"></code>
+<code><img src="tech/blender-icon.svg" width="40px"></code>
+<code><img src="tech/capcut-symbol-logo-vector.svg" width="40px"></code>
+<code><img src="tech/cplusplus-original.svg" width="40px"></code>
+<code><img src="tech/css3-original.svg" width="40px"></code>
+<code><img src="tech/debian-original.svg" width="40px"></code>
+<code><img src="tech/figma-original.svg" width="40px"></code>
+<code><img src="tech/firebase-original.svg" width="40px"></code>
+<code><img src="tech/go-original.svg" width="40px"></code>
+<code><img src="tech/html5-original.svg" width="40px"></code>
+<code><img src="tech/illustrator-plain.svg" width="40px"></code>
+<code><img src="tech/kali-1.svg" width="40px"></code>
+<code><img src="tech/lua-original.svg" width="40px"></code>
+<code><img src="tech/nodejs-original.svg" width="40px"></code>
+<code><img src="tech/photoshop-original.svg" width="40px"></code>
+<code><img src="tech/react-original.svg" width="40px"></code>
+<code><img src="tech/roblox-studio-1.svg" width="40px"></code>
+<code><img src="tech/ssh-icon.svg" width="40px"></code>
 </p>
 
 # Linguagens
 <p>
-<code><img src="c-original.svg" width="40px"></code>
-<code><img src="csharp-original.svg" width="40px"></code>
-<code><img src="java-original.svg" width="40px"></code>
-<code><img src="javascript-original.svg" width="40px"></code>
-<code><img src="kotlin-original.svg" width="40px"></code>
-<code><img src="language-cpp-icon.svg" width="40px"></code>
-<code><img src="language-csharp-icon.svg" width="40px"></code>
-<code><img src="language-go-icon.svg" width="40px"></code>
-<code><img src="lua-original.svg" width="40px"></code>
-<code><img src="mysql-original.svg" width="40px"></code>
-<code><img src="php-original.svg" width="40px"></code>
-<code><img src="python-original (1).svg" width="40px"></code>
-<code><img src="ruby-original.svg" width="40px"></code>
-<code><img src="sqlite-original.svg" width="40px"></code>
+<code><img src="linguagens/c-original.svg" width="40px"></code>
+<code><img src="linguagens/csharp-original.svg" width="40px"></code>
+<code><img src="linguagens/java-original.svg" width="40px"></code>
+<code><img src="linguagens/javascript-original.svg" width="40px"></code>
+<code><img src="linguagens/kotlin-original.svg" width="40px"></code>
+<code><img src="linguagens/language-cpp-icon.svg" width="40px"></code>
+<code><img src="linguagens/language-csharp-icon.svg" width="40px"></code>
+<code><img src="linguagens/language-go-icon.svg" width="40px"></code>
+<code><img src="linguagens/lua-original.svg" width="40px"></code>
+<code><img src="linguagens/mysql-original.svg" width="40px"></code>
+<code><img src="linguagens/php-original.svg" width="40px"></code>
+<code><img src="linguagens/python-original (1).svg" width="40px"></code>
+<code><img src="linguagens/ruby-original.svg" width="40px"></code>
+<code><img src="linguagens/sqlite-original.svg" width="40px"></code>
 </p>
 
 
