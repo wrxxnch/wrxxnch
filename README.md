@@ -295,7 +295,6 @@ Hi,my name is Jean<br>,but my friendos call me Wrench <br>Cuwrenchly learning LU
 <code><img src="linguagens/javascript-original.svg" width="40px"></code>
 <code><img src="linguagens/kotlin-original.svg" width="40px"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40px"></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40px"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40px"></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="40px"></code>
 <code><img src="linguagens/mysql-original.svg" width="40px"></code>
