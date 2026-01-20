@@ -285,7 +285,7 @@ Hi,my name is Jean<br>,but my friendos call me Wrench <br>Cuwrenchly learning LU
 <code><img src="tech/roblox-studio-1.svg" width="40px"></code>
 <code><img src="tech/ssh.png" width="40px"></code>
 <code><img src="tech/FL-Studio-icon.png" width="40px"></code>
-<code><img src="linguagens/minetest.svg" width="40px"></code>
+<code><img src="linguagens/minetest.png" width="40px"></code>
 </p>
 
 # Linguagens
